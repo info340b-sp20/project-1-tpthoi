@@ -1,0 +1,23 @@
+body {
+    background-color: gold;
+}
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: purple;
+}
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+a {
+    text-decoration: solid;
+}
+p {
+    font-size: xx-large;
+    background-color: purple;
+}
+li {
+    font-size: xx-large;
+    background-color: purple;
+}
